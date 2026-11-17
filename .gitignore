@@ -1,0 +1,36 @@
+/build/
+
+# Compiler and IDE output
+.vs/
+.vscode/
+*.obj
+*.res
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.pch
+*.tlog/
+*.exe
+*.dll
+*.log
+*.user
+*.suo
+
+# Local credentials and agent configuration
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+.aws/
+.codex/
+.agents/
+
+# Local temporary files
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
