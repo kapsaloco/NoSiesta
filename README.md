@@ -2,6 +2,8 @@
 
 A tiny, portable Windows app with a **Frutiger Aero** look. Open it to keep your PC and screen awake. Close it to let Windows sleep normally.
 
+[Download NoSiesta v1.0.0](https://github.com/kapsaloco/NoSiesta/releases/tag/v1.0.0)
+
 <p align="center">
   <img src="assets/NoSiestaScreen.png" alt="NoSiesta with its blue glass interface and Go touch grass message" width="430">
 </p>
